@@ -13,7 +13,7 @@ const server = http.createServer((req, res) => {
       <body style="font-family: Arial; text-align: center; padding: 50px; background: #1a1a2e; color: white;">
         <h1 style="color: #00d4ff;">🚀 Auto-Deployed via GitHub Actions!</h1>
         <p>Every git push automatically updates this page.</p>
-        <p><strong>Version:</strong> 1.0.0</p>
+        <p><strong>Version:</strong> 2.0.0</p>
         <p><strong>Deployed at:</strong> ${new Date().toISOString()}</p>
         <hr style="border-color: #00d4ff; margin: 30px auto; width: 50%;">
         <p style="color: #aaa;">Running on AWS EC2 | Deployed by GitHub Actions</p>
