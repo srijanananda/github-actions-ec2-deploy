@@ -1,0 +1,11 @@
+{
+  "name": "github-actions-ec2-deploy",
+  "version": "1.0.0",
+  "description": "Node.js app auto-deployed to EC2 via GitHub Actions CI/CD pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "YOUR_NAME",
+  "license": "MIT"
+}
